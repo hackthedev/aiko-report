@@ -14,11 +14,9 @@ Für Fragen gibt es den [Q&A Chat (Fragen und Antworten)](https://github.com/hac
 <br>
 
 ## Wie reicht man ein neues Wort ein?
-Um ein neues Wort einzureichen [klickt man hier](https://github.com/hackthedev/aiko-report/issues/new). Damit die Bearbeitungszeit des Antrages schneller erfolgt ist es sinnvoll als "Label" `submit` zu verwenden. Wenn das eingereichte Wort angenommen wurde muss nur noch gewartet werden bis Aiko ein 
+Um ein neues Wort einzureichen [klickt man hier](https://github.com/hackthedev/aiko-report/issues/new). Damit die Bearbeitungszeit des Antrages schneller erfolgt ist es sinnvoll als "Label" `submit` zu verwenden. 
 
-<!--
 <br>
 
-## When will submitted words take effect?
-Your submission must be approved for it to take an effect. If you submission was accepted, you just have to wait for the Bot to update. The Bot updates each hour.
--->
+## Wann wird das eingereichte Wort erkannt?
+Wenn deine Einreichung akzeptiert worden ist und von uns in die Liste eingetragen wurde muss man nur noch warten bis Aiko ein Update macht. Dieses Update erfolgt in der Regel jede Stunde, jedoch können sich die Zeiten ändern.
