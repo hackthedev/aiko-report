@@ -11,6 +11,8 @@ Für Fragen gibt es den [Q&A Chat (Fragen und Antworten)](https://github.com/hac
 - Globales Bann Sysstem (Aiko Global-Ban System)
   - <i>Dieses Feature können nur die Aiko Admins verwenden, da wir es vor Missbrauch schützen wollen</i>
 
+<br>
+
 - Befehle
   - !submit : Postet [diesen Link](https://github.com/hackthedev/aiko-report/issues)
   - !report : Wenn `Team` Rolle vorhanden, pingt Rolle und gibt Bescheid. 
