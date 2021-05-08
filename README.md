@@ -16,7 +16,7 @@ Für Fragen gibt es den [Q&A Chat (Fragen und Antworten)](https://github.com/hac
 - Befehle
   - !submit : Postet [diesen Link](https://github.com/hackthedev/aiko-report/issues/new)
   - !report : Wenn `Team` Rolle vorhanden, pingt Rolle und gibt Bescheid. 
-  - !ban    : Bannt einen Nutzer global allen Servern (wo Aiko auch ist)
+  - !ban    : Bannt einen Nutzer global von allen Servern (wo Aiko auch ist)
   - !unban  : Entbannt einen global gebannten Nutzer
 
 <br>
