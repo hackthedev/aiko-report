@@ -8,7 +8,7 @@ Für Fragen gibt es den [Q&A Chat (Fragen und Antworten)](https://github.com/hac
 ## Features
 - Löscht eine Nachricht die ein Schimpfwort enthält
 - Löscht auch Nachrichten die nach der Bearbeitung ein Schimpfwort enthalten
-- Globales Bann Sysstem (Aiko Global-Ban System)
+- Globales Bann System (Aiko Global-Ban System)
   - <i>Dieses Feature können nur die Aiko Admins verwenden, da wir es vor Missbrauch schützen wollen</i>
 
 <br>
